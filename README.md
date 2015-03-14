@@ -24,5 +24,7 @@ SPINAL output alignment network of the H.Sapiens-S.Cerevisiae data. Only the max
 
 1: SMAD2 | YDR388W, 2: EP300 | YMR308C, 3: CREBBP | YOR294W, 4: PTK2 | YBR109C, 5: CAV1 | YDR414C, 6: ATXN1 | YKR048C, 7: AR | YPL022W, 8: ESR1 | YEL037C, 9: YWHAE | YLR150W, 10: MYC | YAL005C 
 
+![Sample Alignment](images/hsapi-scere-spinalmatch-alignmentgosubgraphmaxcompdrawing7.png?raw=true)
+
 [emre-aladag]: http://www.emrealadag.com
 [cesim-erten]: http://hacivat.khas.edu.tr/~cesim
